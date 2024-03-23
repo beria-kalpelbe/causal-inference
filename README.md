@@ -19,4 +19,4 @@ Greedy Equivalence Search (GES) is a popular algorithm for causal discovery from
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/causal-inference-project.git
+   git clone https://github.com/beria-kalpelbe/causal-inference.git
